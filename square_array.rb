@@ -4,9 +4,6 @@ def square_array(n)
   n.each do |x|
   print x
 end
-
-ary.each do |i|
-   puts i
 end
 
 square_array(array)
