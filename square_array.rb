@@ -6,7 +6,7 @@ def square_array(n)
     new_array.push(x)
   end
   
-  return
+  print new_array
 end
 
 square_array(array)
